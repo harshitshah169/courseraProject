@@ -1,1 +1,172 @@
+@media screen and (min-width: 400px) and (max-width: 767px){
+* {
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	margin: 10px 0px 20px 0px;
+	text-align: center;
+}
+.container{
+
+	margin: 5px 10px 5px 10px;
+}
+.row{	
+	padding: 0px 5px 5px 5px;
+	overflow: auto;
+	
+}
+
+.column{
+	border: 2px solid black;
+	width: 100px;
+	height: auto;
+	float: left;
+	background: gray;
+	margin: 0px 5px 5px 5px;
+	padding: 0px 5px 5px 5px;
+}
+.itemName {
+	property: absolute;
+	text-align: center;
+	width: 33%;
+	margin: -1px -5px 0px -50px;
+	float: right;
+	border: 1px solid black;
+	
+	
+}
+.content {
+	property: relative;
+	padding: 25px 10px 10px 10px;
+}
+#chicken{
+	background: blue;
+}
+#beef{
+	background: red;
+	color: white;
+}
+#sushi{
+	background: yellow;
+}
+}
+
+
+
+
+
+
+@media screen and (min-width: 992px){
+* {
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	margin: 10px 0px 20px 0px;
+	text-align: center;
+}
+.container{
+
+	margin: 5px 10px 5px 10px;
+}
+.row{	
+	padding: 0px 5px 5px 5px;
+	overflow: auto;
+	
+}
+
+.column{
+	border: 2px solid black;
+	width: 30%;
+	height: auto;
+	float: left;
+	background: gray;
+	margin: 0px 5px 5px 5px;
+	padding: 0px 5px 5px 5px;
+}
+.itemName {
+	property: absolute;
+	text-align: center;
+	width: 33%;
+	margin: -1px -5px 0px -50px;
+	float: right;
+	border: 1px solid black;
+	
+	
+}
+.content {
+	property: relative;
+	padding: 25px 10px 10px 10px;
+}
+#chicken{
+	background: blue;
+}
+#beef{
+	background: red;
+	color: white;
+}
+#sushi{
+	background: yellow;
+}
+}
+
+
+
+
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+* {
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	margin: 10px 0px 20px 0px;
+	text-align: center;
+}
+.container{
+
+	margin: 5px 10px 5px 10px;
+}
+.row{	
+	padding: 0px 5px 5px 5px;
+	overflow: auto;
+	
+}
+
+.column{
+	border: 2px solid black;
+	width: 46%;
+	height: auto;
+	float: left;
+	background: gray;
+	margin: 0px 5px 5px 5px;
+	padding: 0px 5px 5px 5px;
+}
+.itemName {
+	property: absolute;
+	text-align: center;
+	width: 33%;
+	margin: -1px -5px 0px -50px;
+	float: right;
+	border: 1px solid black;
+	
+	
+}
+.content {
+	property: relative;
+	padding: 25px 10px 10px 10px;
+}
+#chicken{
+	background: blue;
+}
+#beef{
+	background: red;
+	color: white;
+}
+#sushi{
+	background: yellow;
+}
+}
+
 
